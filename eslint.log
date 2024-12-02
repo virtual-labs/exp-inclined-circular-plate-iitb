@@ -1,0 +1,183 @@
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/js/activity1.js
+   14:9    warning  'MathJax' is not defined                                        no-undef
+   18:10   warning  'start_act1' is defined but never used                          no-unused-vars
+   23:20   warning  'get_collapse_btn_text' is not defined                          no-undef
+   33:41   warning  'd' is not defined                                              no-undef
+   33:56   warning  'h' is not defined                                              no-undef
+   33:135  warning  'ang' is not defined                                            no-undef
+   41:19   warning  'd' is not defined                                              no-undef
+   44:19   warning  'h' is not defined                                              no-undef
+   50:42   warning  Unnecessary escape character: \θ                                no-useless-escape
+   61:5    warning  'hide_all_steps' is not defined                                 no-undef
+   63:9    warning  'MathJax' is not defined                                        no-undef
+   66:9    warning  'show_step' is not defined                                      no-undef
+   70:5    warning  'd' is not defined                                              no-undef
+   71:5    warning  'h' is not defined                                              no-undef
+   72:5    warning  'ang' is not defined                                            no-undef
+   73:5    warning  'a' is not defined                                              no-undef
+   74:5    warning  'h_bar' is not defined                                          no-undef
+   75:5    warning  'f' is not defined                                              no-undef
+   76:5    warning  'Ig' is not defined                                             no-undef
+   77:5    warning  'h_star' is not defined                                         no-undef
+   78:5    warning  'd' is not defined                                              no-undef
+   78:20   warning  'random' is not defined                                         no-undef
+   79:5    warning  'h' is not defined                                              no-undef
+   79:20   warning  'random' is not defined                                         no-undef
+   80:5    warning  'ang' is not defined                                            no-undef
+   80:11   warning  'random1' is not defined                                        no-undef
+   81:5    warning  'a' is not defined                                              no-undef
+   81:46   warning  'd' is not defined                                              no-undef
+   82:5    warning  'h_bar' is not defined                                          no-undef
+   82:26   warning  'd' is not defined                                              no-undef
+   82:62   warning  'ang' is not defined                                            no-undef
+   82:69   warning  'h' is not defined                                              no-undef
+   83:5    warning  'f' is not defined                                              no-undef
+   83:16   warning  'g' is not defined                                              no-undef
+   83:20   warning  'a' is not defined                                              no-undef
+   83:24   warning  'h_bar' is not defined                                          no-undef
+   84:5    warning  'Ig' is not defined                                             no-undef
+   84:48   warning  'd' is not defined                                              no-undef
+   85:5    warning  'h_star' is not defined                                         no-undef
+   85:27   warning  'Ig' is not defined                                             no-undef
+   85:68   warning  'ang' is not defined                                            no-undef
+   85:81   warning  'a' is not defined                                              no-undef
+   85:85   warning  'h_bar' is not defined                                          no-undef
+   86:9    warning  'h_bar' is not defined                                          no-undef
+   87:17   warning  'd' is not defined                                              no-undef
+   87:20   warning  'h' is not defined                                              no-undef
+   87:23   warning  'ang' is not defined                                            no-undef
+   89:10   warning  'verify_a_a1' is defined but never used                         no-unused-vars
+   91:17   warning  'a' is not defined                                              no-undef
+   92:10   warning  'verify_values' is not defined                                  no-undef
+   92:47   warning  'a' is not defined                                              no-undef
+  107:21   warning  Unnecessary escape character: \π                                no-useless-escape
+  107:35   warning  'a' is not defined                                              no-undef
+  114:9    warning  'MathJax' is not defined                                        no-undef
+  117:10   warning  'load_a_div_a1' is defined but never used                       no-unused-vars
+  125:30   warning  Unnecessary escape character: \π                                no-useless-escape
+  136:9    warning  'MathJax' is not defined                                        no-undef
+  139:10   warning  'verify_h_bar' is defined but never used                        no-unused-vars
+  141:17   warning  'h_bar' is not defined                                          no-undef
+  142:10   warning  'verify_values' is not defined                                  no-undef
+  142:47   warning  'h_bar' is not defined                                          no-undef
+  156:36   warning  Unnecessary escape character: \θ                                no-useless-escape
+  156:47   warning  'h_bar' is not defined                                          no-undef
+  163:9    warning  'MathJax' is not defined                                        no-undef
+  166:10   warning  'load_total_pressure_force_a1' is defined but never used        no-unused-vars
+  180:23   warning  Unnecessary escape character: \ρ                                no-useless-escape
+  193:9    warning  'MathJax' is not defined                                        no-undef
+  196:10   warning  'verify_f' is defined but never used                            no-unused-vars
+  198:17   warning  'f' is not defined                                              no-undef
+  199:10   warning  'verify_values' is not defined                                  no-undef
+  199:47   warning  'f' is not defined                                              no-undef
+  213:17   warning  Unnecessary escape character: \ρ                                no-useless-escape
+  213:34   warning  'f' is not defined                                              no-undef
+  220:9    warning  'MathJax' is not defined                                        no-undef
+  223:10   warning  'load_inertia_div_a1' is defined but never used                 no-unused-vars
+  237:32   warning  Unnecessary escape character: \π                                no-useless-escape
+  250:9    warning  'MathJax' is not defined                                        no-undef
+  253:10   warning  'verify_i_a1' is defined but never used                         no-unused-vars
+  255:17   warning  'Ig' is not defined                                             no-undef
+  256:10   warning  'verify_values' is not defined                                  no-undef
+  256:47   warning  'Ig' is not defined                                             no-undef
+  270:26   warning  Unnecessary escape character: \π                                no-useless-escape
+  270:41   warning  'Ig' is not defined                                             no-undef
+  277:9    warning  'MathJax' is not defined                                        no-undef
+  280:10   warning  'load_depth_div_a1' is defined but never used                   no-unused-vars
+  294:36   warning  Unnecessary escape character: \×                                no-useless-escape
+  294:44   warning  Unnecessary escape character: \θ                                no-useless-escape
+  307:9    warning  'MathJax' is not defined                                        no-undef
+  310:10   warning  'verify_depth_centre_of_pressure_a1' is defined but never used  no-unused-vars
+  312:17   warning  'h_star' is not defined                                         no-undef
+  313:10   warning  'verify_values' is not defined                                  no-undef
+  313:47   warning  'h_star' is not defined                                         no-undef
+  327:30   warning  Unnecessary escape character: \×                                no-useless-escape
+  327:38   warning  Unnecessary escape character: \θ                                no-useless-escape
+  327:68   warning  'h_star' is not defined                                         no-undef
+  334:9    warning  'MathJax' is not defined                                        no-undef
+  337:10   warning  'exp_complete' is defined but never used                        no-unused-vars
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/js/data.js
+  1:5  warning  'd' is assigned a value but never used    no-unused-vars
+  2:5  warning  'h' is assigned a value but never used    no-unused-vars
+  3:5  warning  'ang' is assigned a value but never used  no-unused-vars
+  4:5  warning  'a' is defined but never used             no-unused-vars
+  5:5  warning  'h_bar' is defined but never used         no-unused-vars
+  6:5  warning  'h_star' is defined but never used        no-unused-vars
+  7:5  warning  'f' is defined but never used             no-unused-vars
+  8:5  warning  'Ig' is defined but never used            no-unused-vars
+  9:5  warning  'g' is assigned a value but never used    no-unused-vars
+
+/home/runner/work/exp-inclined-circular-plate-iitb/exp-inclined-circular-plate-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+✖ 158 problems (0 errors, 158 warnings)
+
