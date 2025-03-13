@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "A circular plate of diameter 3.4m is below 2m of free surface of the water in such a way that it is making an angle of 41° with the free surface. Find the position of centre of pressure. Refer figure in the simulator.",
+        "qid": 1,
+        "option_a": "3.30 m",
+        "option_b": "3.21 m",
+        "option_c": "4.12 m",
+        "option_d": "3.79 m",
+        "correct_option": "b"
+    },
+    {
+        "question": "A circular plate of diameter 2.6m is below 1.8m of free surface of the water in such a way that it is making an angle of 44° with the free surface. Find the position of centre of pressure. Refer figure in the simulator.",
+        "qid": 2,
+        "option_a": "2.78 m",
+        "option_b": "2.57 m",
+        "option_c": "2.12 m",
+        "option_d": "2.89 m",
+        "correct_option": "a"
+    }
+]
